@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sekretaris Duja</string>
+    <string name="pesantren_name">Pondok Pesantren Badrud Duja</string>
+    <string name="pesantren_address">Desa Gaji, Kec. Guntur, Kab. Demak, Jawa Tengah</string>
+    <string name="title_dashboard">Kesekretariatan</string>
+    <string name="title_agenda">Buku Agenda</string>
+    <string name="title_surat">Surat Resmi</string>
+    <string name="title_notulensi">Notulensi</string>
+    <string name="title_arsip">Arsip Dokumen</string>
+    <string name="tab_surat_masuk">Surat Masuk</string>
+    <string name="tab_surat_keluar">Surat Keluar</string>
+    <string name="action_open_google_form">Isi Google Form</string>
+    <string name="action_generate_ai">Buat dengan AI</string>
+    <string name="action_copy">Salin Teks</string>
+    <string name="action_share">Bagikan</string>
+</resources>

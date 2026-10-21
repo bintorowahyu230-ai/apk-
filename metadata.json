@@ -1,0 +1,6 @@
+{
+  "name": "Sekretaris Duja",
+  "description": "Asisten AI Kesekretariatan Pondok Pesantren Badrud Duja untuk pembuatan surat resmi, notulensi rapat, dan buku agenda surat masuk & keluar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
